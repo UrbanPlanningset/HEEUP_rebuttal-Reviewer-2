@@ -1,4 +1,6 @@
-# Q2 Supplement  HEEUP vs Baseline.
+# Q2 Supplement  
+
+## HEEUP vs Baseline.
  
 | Category                       | Method              | Decision-making process description                                        | Decision-making perspective       | Characteristics                                             |
 |--------------------------------|---------------------|---------------------------------------------------------------------------|-----------------------------------|-------------------------------------------------------------|
@@ -22,9 +24,9 @@ VAE, GAN:
 - Wang, Dongjie et al. "Reimagining city configuration: Automated urban planning via adversarial learning." In *Proceedings of the 28th International Conference on Advances in Geographic Information Systems*, 497–506, 2020.
 - Wang, Dongjie et al. "Automated urban planning for reimagining city configuration via adversarial learning: quantification, generation, and evaluation." *ACM Transactions on Spatial Algorithms and Systems* 9.1 (2023): 1–24.
 
-References on algorithm classification:
+## References on algorithm classification:
 - Olu-Ajayi, Razak et al. "Data-driven tools for building energy consumption prediction: A review." *Energies* 16.6 (2023): 2574. MDPI.
 - Amasyali, Kadir and El-Gohary, Nora M. "A review of data-driven building energy consumption prediction studies." *Renewable and Sustainable Energy Reviews* 81 (2018): 1192–1205. Elsevier.
 
-References on energy efficiency:
+## References on energy efficiency:
 - Klemm, Christian and Wiese, Frauke. "Indicators for the optimization of sustainable urban energy systems based on energy system modeling." *Energy, Sustainability and Society* 12.1 (2022): 3. Springer. 
