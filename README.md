@@ -51,4 +51,6 @@ VAE, GAN:
 - [10]  Amasyali, Kadir and El-Gohary, Nora M. "A review of data-driven building energy consumption prediction studies." *Renewable and Sustainable Energy Reviews* 81 (2018): 1192–1205. Elsevier.
 - [11] Liu, Huiheng, Liang, Jinrui, Liu, Yanchen, and Wu, Huijun. "A review of data-driven building energy prediction." *Buildings* 13.2 (2023): 532. MDPI.
 ## References on energy efficiency:
--  [12] Klemm, Christian and Wiese, Frauke. "Indicators for the optimization of sustainable urban energy systems based on energy system modeling." *Energy, Sustainability and Society* 12.1 (2022): 3. Springer. 
+-  [12] Klemm, Christian and Wiese, Frauke. "Indicators for the optimization of sustainable urban energy systems based on energy system modeling." *Energy, Sustainability and Society* 12.1 (2022): 3. Springer.
+
+Codes and dataset can be found at [HEEUP_Energy_Efficient GitHub Repository](https://anonymous.4open.science/r/HEEUP).
